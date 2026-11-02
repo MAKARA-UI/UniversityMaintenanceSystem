@@ -1,0 +1,23 @@
+/* Data tables, headers, selection, and scrollbars. */
+QTableWidget {
+    background-color: #FFFFFF;
+    alternate-background-color: #F0F5F1;
+    gridline-color: #E0E8E2;
+    border: 1px solid #D9E3DC;
+    border-radius: 8px;
+    font-size: 13pt;
+    selection-background-color: #DCEBE3;
+    selection-color: #173D34;
+}
+QHeaderView::section {
+    color: #FFFFFF;
+    background-color: #285B4E;
+    border: 0;
+    padding: 10px 8px;
+    font-size: 13pt;
+    font-weight: 600;
+}
+QAbstractItemView::item { min-height: 30px; }
+QScrollBar:vertical { background: #EDF2EE; width: 12px; margin: 0; }
+QScrollBar::handle:vertical { background: #B8CBC0; border-radius: 5px; min-height: 24px; }
+QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical { height: 0; }

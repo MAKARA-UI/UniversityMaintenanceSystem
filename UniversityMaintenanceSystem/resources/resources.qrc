@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="styles/base.qss">styles/base.qss</file>
+        <file alias="styles/authentication.qss">styles/authentication.qss</file>
+        <file alias="styles/sidebar.qss">styles/sidebar.qss</file>
+        <file alias="styles/dashboard.qss">styles/dashboard.qss</file>
+        <file alias="styles/dashboards/AdministratorDashboard.qss">styles/dashboards/AdministratorDashboard.qss</file>
+        <file alias="styles/dashboards/FacilitiesManagerDashboard.qss">styles/dashboards/FacilitiesManagerDashboard.qss</file>
+        <file alias="styles/dashboards/TechnicianDashboard.qss">styles/dashboards/TechnicianDashboard.qss</file>
+        <file alias="styles/dashboards/ReporterDashboard.qss">styles/dashboards/ReporterDashboard.qss</file>
+        <file alias="styles/forms.qss">styles/forms.qss</file>
+        <file alias="styles/tables.qss">styles/tables.qss</file>
+        <file alias="styles/dialogs.qss">styles/dialogs.qss</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,66 @@
+/* Shared dashboard navigation and signed-in user panel. */
+QWidget#sidebar {
+    color: #E5EEE9;
+    background-color: #173D34;
+}
+QLabel#sidebarBrand {
+    color: #FFFFFF;
+    background-color: transparent;
+    font-size: 17pt;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+QLabel#sidebarSubtitle {
+    color: #B7D6C8;
+    background-color: transparent;
+    font-size: 13pt;
+}
+QLabel#sidebarCaption {
+    color: #9DBAAF;
+    background-color: transparent;
+    font-size: 12pt;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+QPushButton#sidebarButton {
+    color: #E5EEE9;
+    background-color: transparent;
+    border: 0;
+    border-radius: 7px;
+    text-align: left;
+    padding: 10px 12px;
+    font-size: 14pt;
+    font-weight: 600;
+}
+QPushButton#sidebarButton:hover { background-color: #285B4E; }
+QPushButton#sidebarButton:checked {
+    color: #FFFFFF;
+    background-color: #347A65;
+}
+QPushButton#logoutButton {
+    color: #F7E5DD;
+    background-color: #214D41;
+    border: 1px solid #587C70;
+    border-radius: 7px;
+    text-align: left;
+    padding: 10px 12px;
+    font-size: 14pt;
+    font-weight: 600;
+}
+QPushButton#logoutButton:hover { background-color: #8A463A; border-color: #8A463A; }
+QFrame#profilePanel {
+    background-color: #214D41;
+    border: 1px solid #3A6A5B;
+    border-radius: 8px;
+}
+QLabel#profileName {
+    color: #FFFFFF;
+    background-color: transparent;
+    font-size: 13pt;
+    font-weight: 700;
+}
+QLabel#profileRole {
+    color: #B7D6C8;
+    background-color: transparent;
+    font-size: 12pt;
+}

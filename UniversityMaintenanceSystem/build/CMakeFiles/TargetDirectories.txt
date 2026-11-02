@@ -1,0 +1,3 @@
+/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/build/CMakeFiles/university_maintenance_system.dir
+/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/build/CMakeFiles/rebuild_cache.dir

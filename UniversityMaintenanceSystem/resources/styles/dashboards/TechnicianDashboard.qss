@@ -1,0 +1,4 @@
+/* Technician dashboard accents. */
+QWidget#dashboardTechnician QLabel#pageTitle { color: #245C60; }
+QWidget#dashboardTechnician QFrame#summaryCard { border-top: 4px solid #356A77; }
+QWidget#dashboardTechnician QPushButton#quickActionButton { background-color: #285B4E; }

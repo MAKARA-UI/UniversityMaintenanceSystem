@@ -1,0 +1,33 @@
+{
+	"BUILD_DIR" : "/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/build/university_maintenance_system_autogen",
+	"CMAKE_BINARY_DIR" : "/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem",
+	"CMAKE_SOURCE_DIR" : "/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem",
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/build/university_maintenance_system_autogen/include",
+	"INPUTS" : 
+	[
+		"/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/resources/styles/tables.qss",
+		"/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/resources/styles/dashboard.qss",
+		"/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/resources/styles/base.qss",
+		"/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/resources/styles/forms.qss",
+		"/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/resources/styles/dialogs.qss",
+		"/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/resources/styles/authentication.qss",
+		"/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/resources/styles/sidebar.qss",
+		"/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/resources/styles/dashboards/TechnicianDashboard.qss",
+		"/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/resources/styles/dashboards/FacilitiesManagerDashboard.qss",
+		"/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/resources/styles/dashboards/AdministratorDashboard.qss",
+		"/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/resources/styles/dashboards/ReporterDashboard.qss"
+	],
+	"LOCK_FILE" : "/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/build/CMakeFiles/university_maintenance_system_autogen.dir/AutoRcc_resources_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/build/CMakeFiles/university_maintenance_system_autogen.dir/AutoRcc_resources_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "/mnt/c/Users/USER-NP/Videos/Software Testing Group/UniversityMaintenanceSystem/resources/resources.qrc",
+	"VERBOSITY" : 0
+}

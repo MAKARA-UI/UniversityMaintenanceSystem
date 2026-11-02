@@ -1,0 +1,4 @@
+/* Facilities manager dashboard accents. */
+QWidget#dashboardFacilitiesManager QLabel#pageTitle { color: #204F43; }
+QWidget#dashboardFacilitiesManager QFrame#summaryCard { border-top: 4px solid #A36B24; }
+QWidget#dashboardFacilitiesManager QPushButton#quickActionButton { background-color: #285B4E; }

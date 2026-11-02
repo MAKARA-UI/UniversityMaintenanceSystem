@@ -1,0 +1,4 @@
+/* Administrator dashboard accents. */
+QWidget#dashboardAdministrator QLabel#pageTitle { color: #173D34; }
+QWidget#dashboardAdministrator QFrame#summaryCard { border-top: 4px solid #285B4E; }
+QWidget#dashboardAdministrator QPushButton#quickActionButton { background-color: #285B4E; }

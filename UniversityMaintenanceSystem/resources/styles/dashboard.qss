@@ -1,0 +1,46 @@
+/* Dashboard headings, summary cards, and explanatory panels. */
+QLabel#welcomeTitle {
+    color: #173D34;
+    background-color: transparent;
+    font-size: 27pt;
+    font-weight: 700;
+}
+QLabel#pageTitle {
+    color: #173D34;
+    font-size: 24pt;
+    font-weight: 700;
+}
+QLabel#pageSubtitle, QLabel#summaryText, QLabel#infoText {
+    color: #687B73;
+    background-color: transparent;
+    font-size: 14pt;
+}
+QFrame#summaryCard, QFrame#infoPanel, QGroupBox {
+    background-color: #FFFFFF;
+    border: 1px solid #D9E3DC;
+    border-radius: 10px;
+}
+QLabel#cardLabel {
+    color: #687B73;
+    background-color: transparent;
+    font-size: 12pt;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+QLabel#cardValue {
+    color: #173D34;
+    background-color: transparent;
+    font-size: 18pt;
+    font-weight: 700;
+}
+QLabel#cardDetail {
+    color: #687B73;
+    background-color: transparent;
+    font-size: 13pt;
+}
+QLabel#sectionTitle {
+    color: #173D34;
+    background-color: transparent;
+    font-size: 19pt;
+    font-weight: 700;
+}

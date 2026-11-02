@@ -1,0 +1,9 @@
+/* Shared palette and default typography. */
+QWidget {
+    color: #20332E;
+    background-color: #F5F7F3;
+    font-family: "Noto Sans", "Segoe UI", sans-serif;
+    font-size: 14pt;
+}
+
+QMainWindow, QDialog { background-color: #F5F7F3; }

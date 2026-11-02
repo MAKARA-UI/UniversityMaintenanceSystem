@@ -1,0 +1,53 @@
+/* Forms, inputs, buttons, and keyboard focus. */
+QGroupBox {
+    background-color: #FFFFFF;
+    border: 1px solid #D9E3DC;
+    border-radius: 10px;
+    margin-top: 0;
+    padding: 14px;
+}
+QGroupBox QLabel { background-color: transparent; }
+
+QLineEdit, QPlainTextEdit, QComboBox {
+    background-color: #FFFFFF;
+    border: 1px solid #C9D7CE;
+    border-radius: 6px;
+    padding: 8px;
+    font-size: 14pt;
+    min-height: 24px;
+    selection-background-color: #2F7563;
+}
+QLineEdit:focus, QPlainTextEdit:focus, QComboBox:focus {
+    border: 2px solid #2F7563;
+}
+QComboBox::drop-down { border: 0; width: 24px; }
+QComboBox QAbstractItemView {
+    background-color: #FFFFFF;
+    selection-background-color: #DCEBE3;
+    selection-color: #173D34;
+}
+
+QPushButton#primaryButton, QPushButton {
+    color: #FFFFFF;
+    background-color: #246653;
+    border: 1px solid #246653;
+    border-radius: 7px;
+    padding: 9px 14px;
+    font-size: 13pt;
+    min-height: 28px;
+    font-weight: 600;
+}
+QPushButton#primaryButton:hover, QPushButton:hover { background-color: #1B5142; }
+QPushButton#primaryButton:pressed, QPushButton:pressed { background-color: #143F34; }
+QPushButton#linkButton {
+    color: #246653;
+    background-color: transparent;
+    border: 0;
+    padding: 5px;
+}
+QPushButton#linkButton:hover { color: #173D34; text-decoration: underline; }
+QCheckBox { spacing: 10px; font-size: 13pt; }
+QPushButton:focus, QComboBox:focus, QLineEdit:focus, QPlainTextEdit:focus,
+QCheckBox:focus, QTableWidget:focus {
+    border: 3px solid #173D34;
+}

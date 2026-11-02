@@ -1,0 +1,4 @@
+/* Reporter dashboard accents. */
+QWidget#dashboardReporter QLabel#pageTitle { color: #246653; }
+QWidget#dashboardReporter QFrame#summaryCard { border-top: 4px solid #347A65; }
+QWidget#dashboardReporter QPushButton#quickActionButton { background-color: #285B4E; }

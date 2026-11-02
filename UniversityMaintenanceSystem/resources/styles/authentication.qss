@@ -1,0 +1,49 @@
+/* Sign-in and account creation screens. */
+QWidget#authCard {
+    background-color: #FFFFFF;
+    border: 1px solid #D9E3DC;
+    border-radius: 14px;
+}
+QWidget#authCard QLabel { background-color: transparent; }
+QWidget#authHero {
+    background-color: #173D34;
+    border-radius: 18px;
+}
+QLabel#heroBrand {
+    color: #B7D6C8;
+    background-color: transparent;
+    font-size: 13pt;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+QLabel#heroTitle {
+    color: #FFFFFF;
+    background-color: transparent;
+    font-size: 30pt;
+    font-weight: 700;
+}
+QLabel#heroDescription {
+    color: #D5E4DC;
+    background-color: transparent;
+    font-size: 16pt;
+}
+QLabel#heroFeature {
+    color: #FFFFFF;
+    background-color: transparent;
+    font-size: 13pt;
+    font-weight: 600;
+    padding: 5px 0;
+}
+QLabel#authTitle {
+    color: #173D34;
+    font-size: 22pt;
+    font-weight: 700;
+}
+QLabel#brandLabel {
+    color: #2F7563;
+    font-size: 12pt;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+QLabel#mutedText { color: #687B73; }
+QLabel#formMessage { color: #A44B3F; }
